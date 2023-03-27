@@ -1,0 +1,50 @@
+h1 {
+    text-align: center;
+    font-family: "Amatic SC", sans-serif
+}
+div#titleDetails {
+    text-align: center;
+    font-family: "Lato", Helvetica, Arial, sans-serif;
+
+}
+
+h2{
+    text-align: center;
+    font-family: "Lato", Helvetica, Arial, sans-serif;
+    line-height: 3rem;
+}
+
+h3{
+    text-align: center;
+    width: 100%;
+    font-family: "Lato", Helvetica, Arial, sans-serif;
+}
+.SectionImage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+h4{
+    text-align: center;
+    font-size: 3rem;
+    font-family: "Amatic SC", sans-serif
+}
+  h5{
+    text-align: center;
+    font-size: large;
+    font-family: "Lato", Helvetica, Arial, sans-serif;
+    line-height: 2rem;
+}
+footer{
+text-align: center;
+font-size: 3rem;
+font-family: "Amatic SC", sans-serif;
+line-height: 8rem;
+
+}
+
+iframe{
+    text-align: center;
+    width: 25%;
+}

@@ -1,0 +1,9 @@
+rgb(227,6,19) - czerwone logo
+rgb(184,1,32) - czerwony ciemny
+rgb(220,0,24) - czerwony jasny
+rgb(3,41,90) - niebieski napis
+rgb(0,119,161) - niebieskie paski
+rgb(243,48,61) - czerwone odnośniki
+
+czcionka- "Amatic SC", sans-serif !imporant
+"Lato", Helvetica, Arial, sans-serif
